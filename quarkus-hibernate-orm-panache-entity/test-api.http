@@ -1,0 +1,23 @@
+GET http://localhost:8080/movies/country/argentina
+Accept: application/json
+
+###
+GET http://localhost:8080/movies/2
+Accept: application/json
+
+###
+POST http://localhost:8080/movies
+Content-Type: application/json
+
+{
+  "title": "tes3",
+  "description": "tes3",
+  "director": "a",
+  "country": "argentina"
+}
+
+###
+GET http://localhost:8080/movies
+Accept: application/json
+
+###

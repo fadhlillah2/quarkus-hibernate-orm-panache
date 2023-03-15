@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/microservices-quarkus.iml" filepath="$PROJECT_DIR$/microservices-quarkus.iml" />
+      <module fileurl="file://$PROJECT_DIR$/quarkus-hibernate-orm-panache-entity/quarkus-hibernate-orm-panache-entity.iml" filepath="$PROJECT_DIR$/quarkus-hibernate-orm-panache-entity/quarkus-hibernate-orm-panache-entity.iml" />
+    </modules>
+  </component>
+</project>
